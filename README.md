@@ -19,7 +19,7 @@ You can play the game [here](#).
 ## How to Use
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/dicee-game.git
+   git clone https://github.com/BLENDERM0NK/Dice-Game.git
 2. Navigate to the project directory.
    ```bash
    cd dicee-game
